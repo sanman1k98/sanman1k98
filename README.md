@@ -1,7 +1,5 @@
 # Hello there!
 
-My name is Sandeep and I like to make computers do cool stuff.
+My name is Sandeep and I like to code.
 
-I do all my projects locally and never push it here cause I'm insecure about my code.
-
-I'm gonna try to be more active here.
+I'm gonna try to be more active here, so stay tuned...
