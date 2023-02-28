@@ -19,6 +19,6 @@
 - photography and videography
 - tetris
 
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanman1k98&count_private=true&show_icons=true)
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanman1k98&count_private=true&show_icons=true&card_width=430)
 
-![Sandeep's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanman1k98&layout=compact)
+![Sandeep's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanman1k98&card_width=430)
