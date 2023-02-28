@@ -1,5 +1,5 @@
 # Hello there!
 
-My name is Sandeep and I like to code.
+My name is Sandeep and I love to code!
 
-I'm gonna try to be more active here, so stay tuned...
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanman1k98&count_private=true&show_icons=true)
